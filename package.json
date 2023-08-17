@@ -16,5 +16,8 @@
     "five-bells-condition": "^5.0.1",
     "xrpl": "^2.8.1"
   },
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^20.5.0"
+  }
 }
