@@ -7,6 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app-index.js"
   },
+  "browser": {
+    "crypto": false
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
